@@ -1,5 +1,5 @@
 # ITMO-Neurotechnologies and Programming
-#1st Course
+# 1st Course
 ## 1st term
 
 ## 2nd term
