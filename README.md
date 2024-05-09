@@ -4,4 +4,4 @@
 
 ## 2nd term
 <b>Programming:</b>
-- [5th lab](https://github.com/ArseniiKarov/lab5Prog)
+- [5th Laboratory work Console App](https://github.com/ArseniiKarov/lab5Prog)
